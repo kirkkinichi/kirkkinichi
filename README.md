@@ -1,6 +1,9 @@
 ## Olá! Eu sou o Kirk 😄
+#### 🚀 Engenheiro da Computação
+#### 💻 Desenvolvedor Full Stack
+#### 🎓 Cursando Pós-graduação em Arquitetura de Software
 
-## Skills
+## Habilidades
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
