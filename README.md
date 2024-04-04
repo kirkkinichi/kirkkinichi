@@ -1,7 +1,7 @@
-## Olá! Eu sou o Kirk 😄
-#### 🚀 Engenheiro da Computação
-#### 💻 Desenvolvedor Full Stack
-#### 🎓 Cursando Pós-graduação em Arquitetura de Software
+## Hi! I´m Kirk 😄
+#### 🚀 Bachelor of Computer Engineering
+#### 🎓 Currently pursuing Postgraduate course in Software Architecture
+#### 💻 Full Stack Developer
 
 ## Habilidades
 
