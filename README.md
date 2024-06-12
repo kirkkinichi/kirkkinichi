@@ -1,4 +1,4 @@
-## Hi! I´m Kirk 😄
+## Hi! I'm Kirk 😄
 #### 🚀 Bachelor of Computer Engineering
 #### 🎓 Currently pursuing Postgraduate course in Software Architecture
 #### 💻 Full Stack Developer
